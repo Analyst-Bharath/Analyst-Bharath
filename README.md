@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Analyst-Bharath
-- 👀 I’m interested inPharma?Healthcare/Analytics/Bioinformatics
+- 👀 I’m interested in Pharma/Healthcare/Analytics/Bioinformatics
 - 🌱 I’m currently learning Python/R/SQL
 - 💞️ I’m looking to collaborate on Business/Analytics/Programming
 - 📫 How to reach me Insta n.f.s.w.c
